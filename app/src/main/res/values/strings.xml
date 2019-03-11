@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tengen Toppa Gurren-Lagann</string>
+    <string name="title_activity_fagments_m">Tengen Toppa Gurren-Lagann</string>
+    <string name="tab_text_1">EpisodeList</string>
+    <string name="tab_text_2">CharactersList</string>
+    <string name="tab_text_3">AudioList</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
